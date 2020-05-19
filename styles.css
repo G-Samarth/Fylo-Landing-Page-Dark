@@ -250,4 +250,7 @@ input{
   .sec6 p{
     font-size: 0.825rem;
   }
+  .sec6 .address{
+    width: 85%
+  }
 }
