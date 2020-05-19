@@ -1,7 +1,6 @@
 body{
   font-family: 'Open Sans', sans-serif;
   background-color: hsl(217, 28%, 15%);
-  /* padding: 4%; */
   color: #FFF;
   font-size: 0.8rem;
   text-align: center;
@@ -20,6 +19,8 @@ h2{
   font-weight: 700;
   padding: 0.5rem 0;
 }
+
+/* Section 1 */
 
 .sec1{
   position: relative;
@@ -56,6 +57,8 @@ nav img{
   opacity: 0.7;
 }
 
+/* Section 2 */
+
 .sec2{
   background-color:  hsl(218, 28%, 13%);
   padding: 4%;
@@ -69,6 +72,8 @@ nav img{
 .sec2 p{
   font-size: 1rem;
 }
+
+/* Section 3 */
 
 .sec3{
   padding: 7.5%;
@@ -88,6 +93,8 @@ nav img{
   display: inline-block;
   float: left;
 }
+
+/* Section 4 */
 
 .sec4{
   padding: 10%;
@@ -131,9 +138,7 @@ table p{
   font-size: 0.6rem;
 }
 
-.quote{
-  height: 6vw;
-}
+/* Section 5 */
 
 .sec5{
   background-color: hsl(218, 28%, 13%);
@@ -171,6 +176,8 @@ input{
   margin: 1.5rem 0;
 }
 
+/* Section 6 */
+
 .sec6{
   padding: 8%;
   padding-top: 50%;
@@ -181,6 +188,8 @@ input{
 .sec6 p{
   font-size: 1.2rem;
 }
+
+/* For Desktop screen */
 
 @media (min-width : 600px) {
   body{
